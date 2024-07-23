@@ -1,0 +1,4 @@
+Particle 106 was too far from the Sun at 2.875933e+06 yrs
+Particle 103 was too far from the Sun at 1.017681e+07 yrs
+Particle 108 collided with 0 at 26176776.729612615 years
+Particle 104 was too far from the Sun at 3.288352e+07 yrs
